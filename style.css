@@ -1,0 +1,107 @@
+.CONTAINER1{
+    display: flex;
+    background-color: lightgreen;
+    border: 2px solid red;
+    width: 100%;
+    margin: 0px auto;
+    justify-content: space-around;
+}
+.gallery{
+    font-size: 15px;
+    background-color: aliceblue;
+    line-height: 25px;
+    
+    
+}
+.aircampus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    
+}
+.CONTAINER2{
+    display: flex;
+    
+    justify-content: space-between;
+
+    
+    
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid grey;
+    width: 150px;
+    border-radius: 10px;
+    margin: 40px 70px;
+    background-color: gray;
+
+    
+}
+.image{
+     display: flex;
+     
+    
+    
+    
+
+    
+    border: 2px solid grey;
+    border-radius: 10px;
+    background-color: gray;
+    margin: 40px auto;
+}
+.X{
+    padding: 20px 20px;
+}
+.CONTAINER3{
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgreen;
+}
+.camp{
+    display: flex;
+    
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    
+    
+    
+}
+.cat{
+    display: flex;
+    
+}
+.B{
+    border: 2px solid green;
+    width: 100px;
+    color: green;
+    border-radius: 5px;
+}
+.sub2{
+    width: 100px;
+    background-color: green;
+    border-radius: 5px;
+}
+.NewClass{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
